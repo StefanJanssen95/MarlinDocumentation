@@ -74,7 +74,7 @@ Host software is available for several platforms, including desktop systems, Ras
 
 - [Pronterface](http://www.pronterface.com/) is an open source host by Kliment.
 - [Repetier Host](https://www.repetier.com/) is a closed-source host by Repetier Software.
-- [OctoPrint](http://octoprint.org/) is an open source host for Raspberry Pi by [Gina Häußge](https://www.patreon.com/foosel).
+- [OctoPrint](http://octoprint.org/) is an open source host, which can run on Windows, MacOS and Linux (including a Raspberry Pi), by [Gina Häußge](https://www.patreon.com/foosel).
 - [Cura](https://ultimaker.com/en/products/cura-software) is an open source host by Ultimaker.
 - [Simplify3D](https://www.simplify3d.com/) includes both a host and slicer.
 
